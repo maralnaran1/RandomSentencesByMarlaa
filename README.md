@@ -3,4 +3,5 @@ Hello, this is Random sentence generator game code based on Java for beginners. 
 https://replit.com/@maralnaran1/RandomSentenceByMarla?v=1
 
 
-[random sentences](https://user-images.githubusercontent.com/120242845/207301148-957a1f02-1251-4c5c-a0c0-73324aa2ba16.jpg)
+![random sentences](https://user-images.githubusercontent.com/120242845/207313042-b289eab1-0933-4bf2-a285-8193409c16c5.jpg)
+
